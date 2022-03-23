@@ -1,7 +1,7 @@
 ## Project APB
-### "Algorithms and Programming for Beginners: Preparing New Talents in the Language of Computing Technologies".
+#### "Algorithms and Programming for Beginners: Preparing New Talents in the Language of Computing Technologies".
 
-<div align="center">     
+<div align="justify">     
 This project was planned, proposed, and carried by me along with two undergrad students working under my supervision. The project aimed at Brazilian high-school level students that wished to learn how to program. The project focused on developing their algorithmic thinking - rather than just learning a programming language in the traditional way.
 
 The project encompassed playful activities such as handcrafting bracelets with the student's initials in binary ASCII representation, cardboard games, problem-solving challenges, team challenges mixed with programming, and even the coding of a time-capsule, where the students hard-coded messages with their own forecasts to the next 10 years.
