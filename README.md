@@ -26,6 +26,7 @@ The project also stimulated the application and participation of women and the L
   
 <p>
 
-You can check the clip that we made with the students here: https://youtu.be/xv5OHSXO71w
+<strong>You can check the clip that we made with the students here: https://youtu.be/xv5OHSXO71w </strong>
+</p>
 <div>
 </section>
