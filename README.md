@@ -2,7 +2,7 @@
 #### "Algorithms and Programming for Beginners: Preparing New Talents in the Language of Computing Technologies".
 <br/>
 <div align="center">                                                             
-  <img width="300" height="250" src="./apb.jpg" alt="Project APB thumbnail">
+  <img width="300" height="250" src="./ovalthumb_APB.png" alt="Project APB thumbnail">
 </div>  
 <br/>
 <section>
