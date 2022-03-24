@@ -1,4 +1,4 @@
-## Project APB
+## 🧩 → 👩‍💻 | Project APB
 #### "Algorithms and Programming for Beginners: Preparing New Talents in the Language of Computing Technologies".
 <br/>
 <div align="center">                                                             
