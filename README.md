@@ -25,7 +25,7 @@ The project also stimulated the application and participation of women and the L
 </p>
   
 <p>
-
+<strong>You can check the project's public release here: https://youtu.be/MxRg-xy3myQ </strong>
 <strong>You can check the videoclip that we made with the students here: https://youtu.be/xv5OHSXO71w </strong>
 </p>
 <div>
