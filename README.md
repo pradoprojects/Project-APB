@@ -17,7 +17,7 @@ The project encompassed playful activities such as handcrafting bracelets with t
   
  
 <p>
-The project also stimulated the application and participation of women and the LGBTQIA+ audience to promote their inclusion and empowerment in the Brazilian tech field.
+The project also encouraged teenagers from underrepresented communities to apply and participate, promoting their inclusion and empowerment in Brazil’s tech sector.
 
 </p>
   
