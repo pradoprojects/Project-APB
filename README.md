@@ -8,7 +8,7 @@
 <section>
 <div align="justify">
 <p>  
-I and two undergrad students working under my supervision planned, proposed and carried out this project. The project aimed at Brazilian high-school-level students who wished to learn code. The project focused on developing their algorithmic thinking - rather than just learning a programming language in the traditional way.
+The project aimed at Brazilian high-school-level students who wished to learn code. The project focused on developing their algorithmic thinking - rather than just learning a programming language in the traditional way.
 </p>
   
 <p>
