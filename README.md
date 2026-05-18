@@ -12,6 +12,8 @@
 
 <div align="justify">
 
+### 🧠 Learning Through Play
+
 Project APB was an educational initiative designed for Brazilian high-school students interested in technology and programming.
 
 Instead of focusing only on syntax and coding rules, the project emphasized computational thinking, collaboration, creativity, and accessible learning experiences.
@@ -30,13 +32,17 @@ The project also encouraged participation from underrepresented communities, hel
 
 ### 🔗 Additional Materials
 
-- 📄 Public release website:  
-https://www.ifg.edu.br/component/content/article/17-ifg/ultimas-noticias/13761-inscricoes-abertas-curso-algoritmos-2
+**📄 Public release website**  
+http://www.ifgoias.edu.br/component/content/article/17-ifg/ultimas-noticias/13761-inscricoes-abertas-curso-algoritmos-2
 
-- 🎥 Project announcement video (English subtitles available):  
+<br/>
+
+**🎥 Project announcement video** *(English subtitles available)*  
 https://youtu.be/MxRg-xy3myQ
 
-- 🎬 Student videoclip:  
+<br/>
+
+**🎬 Student videoclip**  
 https://youtu.be/xv5OHSXO71w
 
 </div>
